@@ -1,4 +1,4 @@
-# Clean Food
+# Clean Food 
 
 | ![Restaurant](https://github.com/EforestHD/CleanFood/blob/master/Screenshots/Restaurant.png) | ![Mirans](https://github.com/EforestHD/CleanFood/blob/master/Screenshots/Mirans.png) | ![Garips](https://github.com/EforestHD/CleanFood/blob/master/Screenshots/Garips.png) |
 | -------- | -------- | -------- |
@@ -14,11 +14,10 @@
 
 
 
-# Clean Food
+# Clean Food. I DELETED MOST OF THE SWIFT5 FILES. :) 
+# IF YOU WANT ALL WORKING FILES, PLEASE FEEL FREE TO CONTACT ME. PEACE. 
+
  Native Swift iOS App Food Overhaul
-
-
-
 
 
 Quick Guide:
