@@ -1,13 +1,13 @@
 # Clean Food
 
-| ![Restaurant](https://git.service.baltic-online.de/ewk/CleanFood/raw/branch/master/Screenshots/Restaurant.png) | ![Mirans](https://git.service.baltic-online.de/ewk/CleanFood/raw/branch/master/Screenshots/Mirans.png) | ![Garips](https://git.service.baltic-online.de/ewk/CleanFood/raw/branch/master/Screenshots/Garips.png) |
+| ![Restaurant](https://github.com/EforestHD/CleanFood/blob/master/Screenshots/Restaurant.png) | ![Mirans](https://github.com/EforestHD/CleanFood/blob/master/Screenshots/Mirans.png) | ![Garips](https://github.com/EforestHD/CleanFood/blob/master/Screenshots/Garips.png) |
 | -------- | -------- | -------- |
-| ![Pizza](https://git.service.baltic-online.de/ewk/CleanFood/raw/branch/master/Screenshots/Pizza.png)     | ![Chau](https://git.service.baltic-online.de/ewk/CleanFood/raw/branch/master/Screenshots/Chau.png)     | ![Hasch](https://git.service.baltic-online.de/ewk/CleanFood/raw/branch/master/Screenshots/Hasch.png)     | 
+| ![Pizza](https://github.com/EforestHD/CleanFood/blob/master/Screenshots/Pizza.png)     | ![Chau](https://github.com/EforestHD/CleanFood/blob/master/Screenshots/Chau.png)     | ![Hasch](https://github.com/EforestHD/CleanFood/blob/master/Screenshots/Hasch.png)     | 
 
 
-| ![Gaumenschmaus](https://git.service.baltic-online.de/ewk/CleanFood/raw/branch/master/Screenshots/Gaumenschmaus.png) | ![Favoriten](https://git.service.baltic-online.de/ewk/CleanFood/raw/branch/master/Screenshots/Favoriten.png) | ![Bestellungen](https://git.service.baltic-online.de/ewk/CleanFood/raw/branch/master/Screenshots/Bestellungen.png) |
+| ![Gaumenschmaus](https://github.com/EforestHD/CleanFood/blob/master/Screenshots/Gaumenschmaus.png) | ![Favoriten](https://github.com/EforestHD/CleanFood/blob/master/Screenshots/Favoriten.png) | ![Bestellungen](https://github.com/EforestHD/CleanFood/blob/master/Screenshots/Bestellungen.png) |
 | -------- | -------- | -------- |
-| ![Bestellung](https://git.service.baltic-online.de/ewk/CleanFood/raw/branch/master/Screenshots/Bestellung.png)  
+| ![Bestellung](https://github.com/EforestHD/CleanFood/blob/master/Screenshots/Bestellung.png)  
 
 
 
