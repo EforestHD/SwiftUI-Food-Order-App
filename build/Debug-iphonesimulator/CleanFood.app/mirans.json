@@ -1,0 +1,639 @@
+[
+{
+    "id": "10ed990f-aebe-46c3-85d1-4fcff0cc28e4",
+    "name": "Döner",
+    "items": [
+        {
+            "id": "20ed990f-aebe-46c3-85d1-4fcff0cc28e4",
+            "name": "Döner",
+            "price": 4.50,
+            },
+            {
+            "id": "30ed990f-aebe-46c3-85d1-4fcff0cc28e4",
+            "name" : "Döner Mini",
+            "price": 3.50,
+            },
+            {
+            "id": "40ed990f-aebe-46c3-85d1-4fcff0cc28e4",
+            "name": "Döner Jumbo",
+            "price": 6.00,
+            },
+            {
+            "id": "3b53a0cd-9f05-47ab-8c5f-5582e4e6b7a8",
+            "name": "Döner Vegetarisch",
+            "price": 4.00,
+            },
+            {
+            "id": "18488c37-f7b8-4c31-b9e8-4466211f9230",
+            "name": "Döner Hawaii",
+            "price": 5.50,
+            },
+            {
+            "id": "28488c37-f7b8-4c31-b9e8-4466211f9230",
+            "name": "Döner Mirans",
+            "price": 6.00,
+            },
+            {
+            "id": "38488c37-f7b8-4c31-b9e8-4466211f9230",
+            "name": "Döner Falafel",
+            "price": 4.00,
+            },
+    ]
+},
+{
+    "name": "Dürüm",
+    "id": "14babdcc-ab91-4f3d-a66a-a289c9897d8a",
+    "items": [
+        {
+        "id": "24babdcc-ab91-4f3d-a66a-a289c9897d8a",
+        "name": "Dürüm",
+        "price": 4.90,
+        },
+        {
+        "id": "34babdcc-ab91-4f3d-a66a-a289c9897d8a",
+        "name": "Dürüm Mini",
+        "price": 4.00,
+        },
+        {
+        "id": "14f701e8-8f06-47a4-8605-8cc327a06144",
+        "name": "Dürüm Jumbo",
+        "price": 7.00,
+        },
+        {
+        "id": "24f701e8-8f06-47a4-8605-8cc327a06144",
+        "name": "Dürüm Vegetarisch",
+        "price": 4.50,
+        },
+        {
+        "id": "34f701e8-8f06-47a4-8605-8cc327a06144",
+        "name": "Dürüm Hawaii",
+        "price": 6.00,
+        },
+        {
+        "id": "44f701e8-8f06-47a4-8605-8cc327a06144",
+        "name": "Dürüm Mirans",
+        "price": 6.00,
+        },
+        {
+        "id": "54f701e8-8f06-47a4-8605-8cc327a06144",
+        "name": "Dürüm Falafel",
+        "price": 4.50,
+        },
+        {
+        "id": "64f701e8-8f06-47a4-8605-8cc327a06144",
+        "name": "Dürüm Pommrolle",
+        "price": 5.00,
+        },
+    ]
+},
+{
+    "id": "19bbd8d4-235c-42e2-807f-5cf7315acf32",
+    "name": "Salat",
+    "items": [
+        {
+            "id": "29bbd8d4-235c-42e2-807f-5cf7315acf32",
+            "name": "Salat gemischt",
+            "price": 4.00,
+            },
+            {
+            "id": "39bbd8d4-235c-42e2-807f-5cf7315acf32",
+            "name" : "Salat Weichkäse",
+            "price": 4.50,
+            },
+            {
+            "id": "49bbd8d4-235c-42e2-807f-5cf7315acf32",
+            "name": "Salat Thunfisch",
+            "price": 5.50,
+            },
+            {
+            "id": "67770d2a-7054-4d13-982d-30cadb3dcd16",
+            "name": "Salat Döner",
+            "price": 5.50,
+            },
+            {
+            "id": "77770d2a-7054-4d13-982d-30cadb3dcd16",
+            "name": "Salat Schhinken",
+            "price": 5.50,
+            },
+    ]
+},
+{
+"name": "Currywurst",
+"id": "a14ef496-0742-4e7d-a20b-ea57d7340134",
+"items": [
+    {
+    "id": "a24ef496-0742-4e7d-a20b-ea57d7340134",
+    "name": "Currywurst (Bratwurst)",
+    "price": 2.50,
+    },
+    {
+    "id": "a34ef496-0742-4e7d-a20b-ea57d7340134",
+    "name": "Currywurst Pommes",
+    "price": 5.00,
+    },
+    {
+    "id": "a44ef496-0742-4e7d-a20b-ea57d7340134",
+    "name": "Currywurst Pommes u. Salat",
+    "price": 6.00,
+    },
+]
+},
+    {
+        "id": "1821f831-32b3-4b90-9424-75852c64970e",
+        "name": "Dönerteller",
+        "items": [
+            {
+                "id": "2821f831-32b3-4b90-9424-75852c64970e",
+                "name": "Dönerteller klein",
+                "price": 6.00,
+                },
+                {
+                "id": "3821f831-32b3-4b90-9424-75852c64970e",
+                "name" : "Dönerteller normal",
+                "price": 7.50,
+                },
+                {
+                "id": "4821f831-32b3-4b90-9424-75852c64970e",
+                "name": "Dönerteller Mirans klein",
+                "price": 6.50,
+                },
+                {
+                "id": "5821f831-32b3-4b90-9424-75852c64970e",
+                "name": "Dönerteller Mirans normal",
+                "price": 9.00,
+                },
+                {
+                "id": "6821f831-32b3-4b90-9424-75852c64970e",
+                "name": "Dönerteller Falafel",
+                "price": 6.50,
+                },
+        ]
+    },
+    {
+        "name": "Türkische Pizza",
+        "id": "a23f6e37-70c8-4d9a-b2ec-f848bf3859aa",
+        "items": [
+            {
+            "id": "a13f6e37-70c8-4d9a-b2ec-f848bf3859aa",
+            "name": "Türkische Pizza normal",
+            "price": 3.00,
+            },
+            {
+            "id": "a33f6e37-70c8-4d9a-b2ec-f848bf3859aa",
+            "name": "Türkische Pizza mit Salat",
+            "price": 3.50,
+            },
+            {
+            "id": "14eb1fbd-eb92-4f7c-a975-a8ca28ee117f",
+            "name": "Türkische Pizza mit Käse",
+            "price": 4.00,
+            },
+            {
+            "id": "24eb1fbd-eb92-4f7c-a975-a8ca28ee117f",
+            "name": "Türkische Pizza mit Fleischh",
+            "price": 4.50,
+            },
+            {
+            "id": "34eb1fbd-eb92-4f7c-a975-a8ca28ee117f",
+            "name": "Türkischhe Pizza mit Falafel",
+            "price": 4.50,
+            },
+        ]
+    },
+    {
+        "id": "1909b068-3d92-4161-ba0f-b0f5756d8504",
+        "name": "Pizzabrötchen",
+        "items": [
+            {
+                "id": "2909b068-3d92-4161-ba0f-b0f5756d8504",
+                "name": "Pizzabrötchen",
+                "price": 4.00,
+                },
+                {
+                "id": "3909b068-3d92-4161-ba0f-b0f5756d8504",
+                "name" : "Pizzabrötchen mit Belag",
+                "price": 4.90,
+                },
+        ]
+    },
+    {
+        "name": "Pommdöner",
+        "id": "d55977b9-9cd4-467d-81df-5ba600a5c218",
+        "items": [
+            {
+            "id": "d65977b9-9cd4-467d-81df-5ba600a5c218",
+            "name": "Pomm-Döner",
+            "price": 4.00,
+            },
+            {
+            "id": "d75977b9-9cd4-467d-81df-5ba600a5c218",
+            "name": "Pomm-Döner groß",
+            "price": 5.00,
+            },
+        ]
+    },
+    
+    {
+        "name": "Pizza",
+        "id": "1b53a0cd-9f05-47ab-8c5f-5582e4e6b7a7",
+        "items": [
+            {
+            "id": "2b53a0cd-9f05-47ab-8c5f-5582e4e6b7a7",
+            "name": "Pizza Magherita",
+            "price": 5.00,
+            },
+            {
+            "id": "3b53a0cd-9f05-47ab-8c5f-5582e4e6b7a7",
+            "name": "Pizza Thunfisch",
+            "price": 7.00,
+            },
+            {
+            "id": "4b53a0cd-9f05-47ab-8c5f-5582e4e6b7a7",
+            "name": "Pizza Salami",
+            "price": 6.00,
+            },
+            {
+            "id": "5b53a0cd-9f05-47ab-8c5f-5582e4e6b7a7",
+            "name": "Pizza Schinken",
+            "price": 6.00,
+            },
+            {
+            "id": "6b53a0cd-9f05-47ab-8c5f-5582e4e6b7a7",
+            "name": "Pizza Hawaii",
+            "price": 7.00,
+            },
+            {
+            "id": "7b53a0cd-9f05-47ab-8c5f-5582e4e6b7a7",
+            "name": "Pizza Funghih",
+            "price": 6.00,
+            },
+            {
+            "id": "8b53a0cd-9f05-47ab-8c5f-5582e4e6b7a7",
+            "name": "Pizza Spinat",
+            "price": 6.50,
+            },
+            {
+            "id": "9b53a0cd-9f05-47ab-8c5f-5582e4e6b7a7",
+            "name": "Pizza Hollandaise",
+            "price": 7.00,
+            },
+            {
+            "id": "3b13a0cd-9f05-47ab-8c5f-5582e4e6b7a7",
+            "name": "Pizza Hähnchen",
+            "price": 7.00,
+            },
+            {
+            "id": "3b23a0cd-9f05-47ab-8c5f-5582e4e6b7a7",
+            "name": "Pizza Vegetarisch 1",
+            "price": 6.50,
+            },
+            {
+            "id": "3b33a0cd-9f05-47ab-8c5f-5582e4e6b7a7",
+            "name": "Pizza Vegetarisch 2",
+            "price": 7.00,
+            },
+            {
+            "id": "3b43a0cd-9f05-47ab-8c5f-5582e4e6b7a7",
+            "name": "Pizza Honia",
+            "price": 7.00,
+            },
+            {
+            "id": "43f441cb-80a7-42dc-802b-b1888c9ff75b",
+            "name": "Pizza Sucuk",
+            "price": 7.50,
+            },
+            {
+            "id": "53f441cb-80a7-42dc-802b-b1888c9ff75b",
+            "name": "Pizza Mirans",
+            "price": 7.50,
+            },
+            {
+            "id": "63f441cb-80a7-42dc-802b-b1888c9ff75b",
+            "name": "Pizza Mirans Hot",
+            "price": 7.50,
+            },
+        ]
+    },
+    {
+        "name": "Calzone",
+        "id": "1fef7da5-a042-45f0-9571-e004f9d44cfd",
+        "items": [
+            {
+            "id": "2fef7da5-a042-45f0-9571-e004f9d44cfd",
+            "name": "Calzone Schinken",
+            "price": 7.00,
+            },
+            {
+            "id": "3fef7da5-a042-45f0-9571-e004f9d44cfd",
+            "name": "Calzone Thunfisch",
+            "price": 7.00,
+            },
+            {
+            "id": "4fef7da5-a042-45f0-9571-e004f9d44cfd",
+            "name": "Calzone Döner",
+            "price": 7.00,
+            },
+        ]
+    },
+    {
+        "name": "Pide",
+        "id": "f4f40233-3874-4e1b-a3ab-e69dc318de3d",
+        "items": [
+            {
+            "id": "f1f40233-3874-4e1b-a3ab-e69dc318de3d",
+            "name": "Pide Weißkäse",
+            "price": 4.50,
+            },
+            {
+            "id": "f2f40233-3874-4e1b-a3ab-e69dc318de3d",
+            "name": "Pide Spinat",
+            "price": 6.00,
+            },
+            {
+            "id": "f3f40233-3874-4e1b-a3ab-e69dc318de3d",
+            "name": "Pide Thunfisch",
+            "price": 6.00,
+            },
+            {
+            "id": "b19cf96e-dc65-4e03-9482-30f98bf0254a",
+            "name": "Pide Salami",
+            "price": 5.00,
+            },
+            {
+            "id": "b29cf96e-dc65-4e03-9482-30f98bf0254a",
+            "name": "Pide Schinken",
+            "price": 5.00,
+            },
+            {
+            "id": "b39cf96e-dc65-4e03-9482-30f98bf0254a",
+            "name": "Pide Sucuk",
+            "price": 6.00,
+            },
+            {
+            "id": "b49cf96e-dc65-4e03-9482-30f98bf0254a",
+            "name": "Pide Döner",
+            "price": 7.00,
+            },
+        ]
+    },
+    {
+        "name": "Schnitzel",
+        "id": "6bf2cf53-06c0-4d5a-969a-0eb131cda5f6",
+        "items": [
+            {
+            "id": "5bf2cf53-06c0-4d5a-969a-0eb131cda5f6",
+            "name": "Schnitzel Wiener",
+            "price": 6.50,
+            },
+            {
+            "id": "7bf2cf53-06c0-4d5a-969a-0eb131cda5f6",
+            "name": "Schnitzel Zigeuner",
+            "price": 7.50,
+            },
+            {
+            "id": "9922d139-f698-4518-9dfb-b1027dd0a5c4",
+            "name": "Schnitzel Jäger",
+            "price": 7.50,
+            },
+            {
+            "id": "8922d139-f698-4518-9dfb-b1027dd0a5c4",
+            "name": "Schnitzel Wiender + Sauce Hol.",
+            "price": 7.50,
+            },
+        ]
+    },
+    {
+        "name": "Hamburger",
+        "id": "1e6cb860-5ec9-49f2-8236-c338358fbef3",
+        "items": [
+            {
+            "id": "2e6cb860-5ec9-49f2-8236-c338358fbef3",
+            "name": "Hamburger klein",
+            "price": 2.00,
+            },
+            {
+            "id": "3e6cb860-5ec9-49f2-8236-c338358fbef3",
+            "name": "Hamburger normal",
+            "price": 4.00,
+            },
+            {
+            "id": "4e6cb860-5ec9-49f2-8236-c338358fbef3",
+            "name": "Hamburger groß",
+            "price": 5.50,
+            },
+            {
+            "id": "5e6cb860-5ec9-49f2-8236-c338358fbef3",
+            "name": "Hamburger kleines Menü",
+            "price": 5.50,
+            },
+            {
+            "id": "6e6cb860-5ec9-49f2-8236-c338358fbef3",
+            "name": "SHamburger Menü",
+            "price": 6.50,
+            },
+        ]
+    },
+    {
+        "name": "Cheeseburger",
+        "id": "f117d157-5b4d-4e92-bf7f-cd4605befd5d",
+        "items": [
+            {
+            "id": "f217d157-5b4d-4e92-bf7f-cd4605befd5d",
+            "name": "Cheeseburger klein",
+            "price": 2.50,
+            },
+            {
+            "id": "f517d157-5b4d-4e92-bf7f-cd4605befd5d",
+            "name": "Cheeseburger normal",
+            "price": 4.50,
+            },
+            {
+            "id": "1b9256d4-a354-43e7-aee5-95df3f4917f9",
+            "name": "Cheeseburger groß",
+            "price": 6.00,
+            },
+            {
+            "id": "2b9256d4-a354-43e7-aee5-95df3f4917f9",
+            "name": "Cheeseburger kleines Menü",
+            "price": 6.00,
+            },            {
+            "id": "3b9256d4-a354-43e7-aee5-95df3f4917f9",
+            "name": "Cheeseburger Menü",
+            "price": 7.00,
+            },
+        ]
+    },
+    {
+        "name": "Chili-Cheeseburger",
+        "id": "15977494-3024-4da1-a175-bdb399d0091c",
+        "items": [
+            {
+            "id": "25977494-3024-4da1-a175-bdb399d0091c",
+            "name": "Chili-Cheeseburger normal",
+            "price": 4.50,
+            },
+            {
+            "id": "35977494-3024-4da1-a175-bdb399d0091c",
+            "name": "Chili-Cheeseburger groß",
+            "price": 6.00,
+            },
+            {
+            "id": "45977494-3024-4da1-a175-bdb399d0091c",
+            "name": "Chili-Cheeseburger Menü",
+            "price": 7.00,
+            },
+        ]
+    },
+    {
+        "name": "Chickenburger",
+        "id": "15792e29-8645-4e41-ac0d-6e0a88b97218",
+        "items": [
+            {
+            "id": "25792e29-8645-4e41-ac0d-6e0a88b97218",
+            "name": "Chickenburger klein",
+            "price": 4.00,
+            },
+            {
+            "id": "35792e29-8645-4e41-ac0d-6e0a88b97218",
+            "name": "Chickenburger Menü",
+            "price": 7.00,
+            },
+        ]
+    },
+    {
+        "name": "Burger (andere)",
+        "id": "16260360-c099-424d-ae54-848ede41a3a5",
+        "items": [
+            {
+            "id": "26260360-c099-424d-ae54-848ede41a3a5",
+            "name": "Crispy Burger klein",
+            "price": 4.00,
+            },
+            {
+            "id": "36260360-c099-424d-ae54-848ede41a3a5",
+            "name": "Crispy Burger Menü",
+            "price": 7.00,
+            },
+            {
+            "id": "46260360-c099-424d-ae54-848ede41a3a5",
+            "name": "Vegetarischer Burger",
+            "price": 4.50,
+            },
+            {
+            "id": "56260360-c099-424d-ae54-848ede41a3a5",
+            "name": "Vegetarischer Burger Menü",
+            "price": 7.50,
+            },
+        ]
+    },
+    {
+        "name": "Chicken",
+        "id": "12072a98-0d77-4d2b-92e0-71cc775d8a54",
+        "items": [
+            {
+            "id": "22072a98-0d77-4d2b-92e0-71cc775d8a54",
+            "name": "Nuggets (06)",
+            "price": 4.00,
+            },
+            {
+            "id": "32072a98-0d77-4d2b-92e0-71cc775d8a54",
+            "name": "Nuggets (09)",
+            "price": 5.00,
+            },
+            {
+            "id": "42072a98-0d77-4d2b-92e0-71cc775d8a54",
+            "name": "Nuggets (15)",
+            "price": 7.00,
+            },
+            {
+            "id": "52072a98-0d77-4d2b-92e0-71cc775d8a54",
+            "name": "Wings (06)",
+            "price": 4.00,
+            },
+            {
+            "id": "62072a98-0d77-4d2b-92e0-71cc775d8a54",
+            "name": "Wings(09)",
+            "price": 5.00,
+            },
+            {
+            "id": "72072a98-0d77-4d2b-92e0-71cc775d8a54",
+            "name": "Wings (15)",
+            "price": 7.00,
+            },
+            {
+            "id": "82072a98-0d77-4d2b-92e0-71cc775d8a54",
+            "name": "Chicken Chips (06)",
+            "price": 3.00,
+            },
+            {
+            "id": "92072a98-0d77-4d2b-92e0-71cc775d8a54",
+            "name": "Chicken Chips (09)",
+            "price": 4.00,
+            },
+            {
+            "id": "13072a98-0d77-4d2b-92e0-71cc775d8a54",
+            "name": "Chicken Chips (15)",
+            "price": 6.00,
+            },
+        ]
+    },
+    {
+        "name": "Onionrings",
+        "id": "e1898571-d5be-42cc-8f75-09205ac1589d",
+        "items": [
+            {
+            "id": "e2898571-d5be-42cc-8f75-09205ac1589d",
+            "name": "Onionrings (06)",
+            "price": 3.00,
+            },
+            {
+            "id": "e3898571-d5be-42cc-8f75-09205ac1589d",
+            "name": "Onionrings (09)",
+            "price": 4.00,
+            },
+            {
+            "id": "e4898571-d5be-42cc-8f75-09205ac1589d",
+            "name": "Onionsrings (15)",
+            "price": 6.00,
+            },
+        ]
+    },
+    {
+        "name": "Kartoffeln",
+        "id": "1e8f5549-3733-4380-8505-55469a19e2d1",
+        "items": [
+            {
+            "id": "2e8f5549-3733-4380-8505-55469a19e2d1",
+            "name": "Pommes klein",
+            "price": 2.20,
+            },
+            {
+            "id": "3e8f5549-3733-4380-8505-55469a19e2d1",
+            "name": "Pommes groß",
+            "price": 3.50,
+            },
+            {
+            "id": "4e8f5549-3733-4380-8505-55469a19e2d1",
+            "name": "Twister",
+            "price": 2.50,
+            },
+            {
+            "id": "5e8f5549-3733-4380-8505-55469a19e2d1",
+            "name": "Country Potatoes",
+            "price": 2.50,
+            },
+        ]
+    },
+    {
+        "name": "Zusätzlich",
+        "id": "1e8f5549-3733-4380-8505-55469a19e2d2",
+        "items": [
+            {
+            "id": "2e8f5549-3733-4380-8505-55469a19e2d3",
+            "name": "Köse extra",
+            "price": 0.50,
+            },
+
+        ]
+    },
+]

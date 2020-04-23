@@ -1,0 +1,29 @@
+[
+{
+    "id": "10ed990f-aebe-46c3-85d1-4fcff0cc28e4",
+    "name": "Klassiker",
+    "items": [
+        {
+            "id": "20ed990f-aebe-46c3-85d1-4fcff0cc28e4",
+            "name": "Currywurst Pommes",
+            "price": 4.90,
+            },
+            {
+            "id": "30ed990f-aebe-46c3-85d1-4fcff0cc28e4",
+            "name" : "Nachtisch",
+            "price": 1.20,
+            },
+    ]
+},
+{
+    "name": "Stammgericht",
+    "id": "14babdcc-ab91-4f3d-a66a-a289c9897d8a",
+    "items": [
+        {
+        "id": "24babdcc-ab91-4f3d-a66a-a289c9897d8a",
+        "name": "Sauerbraten mit Bohnen, Kartoffeln und Sauce",
+        "price": 7.90,
+        },
+    ]
+},
+]
