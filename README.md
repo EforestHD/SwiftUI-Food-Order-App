@@ -1,3 +1,3 @@
 # Food Delivery Service App
 
-| ![Restaurant](https://github.com/EforestHD/CleanFood/blob/master/Screenshots/Restaurant.PNG) | 
+<img src="https://github.com/EforestHD/SwiftUI-Food-Order-App/blob/master/Screenshots/Restaurant.PNG" width="800"/>
