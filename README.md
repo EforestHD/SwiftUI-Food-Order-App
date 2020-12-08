@@ -32,6 +32,6 @@
 
 <img src="https://github.com/EforestHD/SwiftUI-Food-Order-App/blob/master/Screenshots/mockup4.jpg" width="1000" />
 
-<img src="https://github.com/EforestHD/SwiftUI-Food-Order-App/blob/master/Screenshots/mockup5.jpg" width="1000" />
+
 
 
