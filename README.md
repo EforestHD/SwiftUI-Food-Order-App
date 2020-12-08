@@ -2,7 +2,7 @@
 
 ### Features
 
-- Ordering food via Baltic Online Speisekarte App.
+- Ordering food via Food Delivery App.
 - Full-featured: Real-time lists of orders, HTTPS secured Login, fully written in Swift5 and optimized for iOS14 and iPhone12(Pro).
 - Add your favorite meals into your individual list in our brand new Favorite Section!
 - Organize all orders and their comments.
